@@ -6,16 +6,43 @@
             "breed": "Poodle",
             "customerId": 1,
             "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Coodles",
+            "breed": "Boodle",
+            "customerId": 1,
+            "locationId": 2
+        },
+        {
+            "id": 3,
+            "name": "Loodles",
+            "breed": "Stoodle",
+            "customerId": 1,
+            "locationId": 1
         }
     ],
+
     "customers": [
         {
             "id": 1,
             "name": "Hannah Hall",
             "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 2,
+            "name": "Peyton Kemp",
+            "address": "123 Dont Worry About It Lane"
+        },
+        {
+            "id": 3,
+            "name": "Derrick Henry",
+            "address": "1600 Pennsylvania Ave"
         }
     ],
+
     "employees": [],
+
     "locations": [
         {
             "id": 1,
