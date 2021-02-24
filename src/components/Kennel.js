@@ -1,7 +1,8 @@
 import React from "react"
 import "./Kennel.css"
 
-export const Kennel = () => (
+export const Kennel = () => {
+    return (
     <>
         <h2>Nashville Kennels</h2>
         <small>Loving care when you're not there.</small>
@@ -11,3 +12,4 @@ export const Kennel = () => (
         </address>
     </>
 )
+}
