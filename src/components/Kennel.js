@@ -1,4 +1,5 @@
 import React from "react"
+import { AnimalCard } from "./animal/AnimalCard"
 import "./Kennel.css"
 
 export const Kennel = () => {
