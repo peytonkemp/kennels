@@ -1,6 +1,7 @@
 import React from "react"
 import { AnimalCard } from "./animal/AnimalCard"
 import "./Kennel.css"
+import { PropsAndState } from "./PropsAndState"
 
 export const Kennel = () => {
     return (
@@ -11,6 +12,8 @@ export const Kennel = () => {
             <div>Visit Us at the Nashville North Location</div>
             <div>500 Puppy Way</div>
         </address>
+        <PropsAndState yourName={"Peyton"} />
+        <h2>Animals</h2>
         <article className="animals">
             <AnimalCard />
             <AnimalCard />
@@ -19,3 +22,11 @@ export const Kennel = () => {
     </>
 )
 }
+
+// //--------
+// <article className="animals">
+//   <AnimalCard />
+//   <AnimalCard />
+//   <AnimalCard />
+// </article>
+// //-------
