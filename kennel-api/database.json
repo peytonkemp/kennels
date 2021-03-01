@@ -41,7 +41,13 @@
         }
     ],
 
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jeremy Bakker",
+            "locationId": 2
+        }
+    ],
 
     "locations": [
         {
