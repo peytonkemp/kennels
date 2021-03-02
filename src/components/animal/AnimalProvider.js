@@ -5,6 +5,7 @@ export const AnimalContext = createContext()
 
 // This component establishes what data can be used.
 export const AnimalProvider = (props) => {
+    //define a variable that holds the state of the component, and a function that updates it
     const [animals, setAnimals] = useState([])
 
     const getAnimals = () => {
