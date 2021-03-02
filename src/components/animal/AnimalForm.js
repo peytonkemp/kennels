@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from "react"
-import { LocationContext } from "../location/LocationProvider"
+import { LocationContext } from "../locations/LocationProvider"
 import { AnimalContext } from "../animal/AnimalProvider"
-import { CustomerContext } from "../customer/CustomerProvider"
+import { CustomerContext } from "../customers/CustomerProvider"
 import "./Animal.css"
 import { useHistory } from 'react-router-dom';
 

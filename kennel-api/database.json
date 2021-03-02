@@ -1,64 +1,68 @@
 {
-    "animals": [
-        {
-            "id": 1,
-            "name": "Doodles",
-            "breed": "Poodle",
-            "customerId": 1,
-            "locationId": 2
-        },
-        {
-            "id": 2,
-            "name": "Coodles",
-            "breed": "Boodle",
-            "customerId": 1,
-            "locationId": 2
-        },
-        {
-            "id": 3,
-            "name": "Loodles",
-            "breed": "Stoodle",
-            "customerId": 1,
-            "locationId": 1
-        }
-    ],
-
-    "customers": [
-        {
-            "id": 1,
-            "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct"
-        },
-        {
-            "id": 2,
-            "name": "Peyton Kemp",
-            "address": "123 Dont Worry About It Lane"
-        },
-        {
-            "id": 3,
-            "name": "Derrick Henry",
-            "address": "1600 Pennsylvania Ave"
-        }
-    ],
-
-    "employees": [
-        {
-            "id": 1,
-            "name": "Jeremy Bakker",
-            "locationId": 2
-        }
-    ],
-
-    "locations": [
-        {
-            "id": 1,
-            "name": "Nashville North",
-            "address": "8422 Johnson Pike"
-        },
-        {
-            "id": 2,
-            "name": "Nashville South",
-            "address": "209 Emory Drive"
-        }
-    ]
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Coodles",
+      "breed": "Boodle",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "name": "Loodles",
+      "breed": "Stoodle",
+      "customerId": 1,
+      "locationId": 1
+    },
+    {
+      "name": "Peyton",
+      "breed": "test",
+      "locationId": 1,
+      "customerId": 1,
+      "id": 4
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Peyton Kemp",
+      "address": "123 Dont Worry About It Lane"
+    },
+    {
+      "id": 3,
+      "name": "Derrick Henry",
+      "address": "1600 Pennsylvania Ave"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jeremy Bakker",
+      "locationId": 2
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    }
+  ]
 }
