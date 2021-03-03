@@ -27,6 +27,13 @@
       "locationId": 1,
       "customerId": 1,
       "id": 4
+    },
+    {
+      "name": "Derrick Henry",
+      "breed": "Ox",
+      "locationId": 1,
+      "customerId": 3,
+      "id": 5
     }
   ],
   "customers": [
